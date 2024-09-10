@@ -36,7 +36,7 @@ h1, h2, h3, h4, .contactBtn, .learnmore-link {
 }
 
 .container {
-	background: var(--snow);
+	background: hsl(26, 100%, 99%);
 	max-width: 1440px;
 	margin: auto;
 	position: relative;
